@@ -1,1 +1,1 @@
-Personal website that can be future sachinchawla.com/ sachinchawla.in
+Personal website sachinchawla.in
