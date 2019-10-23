@@ -1,5 +1,5 @@
 body {
-    background-color : #ffe7d1;
+    background-color : #ecfcff;
 }
 hr {
     background-color : white;
@@ -15,5 +15,9 @@ img{
     border-radius: 50%;
 }
 h1 {
-    color: #F6C89F;
+    color: black ;
+    text-decoration: none;
+}
+h3{
+    color: black;
 }
